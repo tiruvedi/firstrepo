@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 this trying for merge confilt
-alpha beta elta
+=======
+this trying for merge conf
+this another data from Repo B
+alpha Delta beta
+>>>>>>> 9f7c15f (commit from repo B)
